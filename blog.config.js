@@ -1,16 +1,16 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: 'Missou Blog',
+  author: 'Missou',
+  email: 'wavelt@yeah.net',
+  link: 'https://missou.vercel.app',
   description: 'This gonna be an awesome website.',
-  lang: 'en-US',
+  lang: 'zh-CN',
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // if leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 10,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
